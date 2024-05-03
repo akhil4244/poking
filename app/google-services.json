@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295294931122",
+    "project_id": "poking-4244",
+    "storage_bucket": "poking-4244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295294931122:android:c40867fd67ad0818a239ab",
+        "android_client_info": {
+          "package_name": "com.akhil.reddy.poking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "SECRET KEY - GOOGLE API KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
